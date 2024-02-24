@@ -1,0 +1,114 @@
+*{
+    padding: 0px;
+    margin: 0px;
+
+}
+.navbar-collapse{
+    width: 40px;
+    
+    margin: auto;
+}
+.navbar-item{
+    margin-left: 80px;
+    color: white;
+    font-size: 15px;
+    display: inline-flex;
+
+}
+.image{
+    margin-left: 30px;
+    width: 180px;
+    height: 50px;
+}
+.main{
+    margin-left: 30px;
+
+}
+.text{
+    width: 740.25px;
+    height: 148px;
+    margin-top: 107px;
+    color: rgb(151, 71, 255);
+    font-size: 70px;
+}
+.para{
+    margin-top: 35px;
+    font-size: 20px;
+} 
+.search{
+    width: 600px;
+    height: 40px;
+    display: inline-flex;
+    
+}
+.d-flex{
+    margin-left: 5px;
+    width: 550px;
+    color: rgb(87, 29, 164);
+    border: 1px solid black;
+    border-radius: 2px;
+   
+}
+.glass{
+    margin-top: 10px;
+    margin-right: 13px;
+}
+.btn-outline-success{
+    width: 50px;
+}
+
+.popular{
+    color:rgb(87, 29, 164) ;
+    
+   
+}
+.popula{
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 30px;
+    width: 270px;
+}
+.keywords1{
+    margin-top: 20px;
+    margin-right: 200px;
+    width: 500px;
+    /* display: inline-block; */
+    display: flex;
+
+    
+    justify-content: space-evenly;
+}
+.elements{
+    
+    font-size: 15px;
+    text-align: center;
+    border: 0.5px solid black;
+    border-radius: 20px;
+    padding: 10px;
+}
+.keywords2{
+    margin-top: 20px;
+    margin-right: 200px;
+    width: 500px;
+    /* display: inline-block; */
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.secondimg{
+    width: 100vw;
+    height: 500px;
+
+}
+.quick{
+    width: 800px;
+    margin-left: 300px;
+
+}
+
+
+    
+
+    
+
+    
